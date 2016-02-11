@@ -1,3 +1,3 @@
 # Tcp File Transfer
 
-Implementation of TCP File Transfer System using C
+C Implementation of TCP File Transfer System
